@@ -17,16 +17,10 @@
   <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=black" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -46,7 +40,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyduddl"/>
   </div>
 
-<br>
 
 
 <h3 align="center">📫 Contact 📫</h3>
